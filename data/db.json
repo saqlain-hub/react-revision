@@ -3,17 +3,12 @@
     {
       "id": 1,
       "checked": false,
-      "item": "Almonds, unsalted, blah blah"
+      "item": "candy"
     },
     {
       "id": 2,
-      "checked": true,
-      "item": "Pizza"
-    },
-    {
-      "id": 4,
-      "checked": true,
-      "item": "candy"
+      "checked": false,
+      "item": "milk"
     }
   ]
 }
